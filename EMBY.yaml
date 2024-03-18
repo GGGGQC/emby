@@ -12,8 +12,19 @@ payload:
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,stream4.misakaf.org
-  - DOMAIN-SUFFIX,emby.aca.best,📲 EMBY
+  - DOMAIN-SUFFIX,emby.aca.best
 
+#Emby-Porn
+  - DOMAIN-SUFFIX,pornemby.club
+
+#Emby-Porn
+  - DOMAIN-SUFFIX,cf.odysseyplus.site
+  - DOMAIN-SUFFIX,sg.odysseyplus.site
+  - DOMAIN-SUFFIX,us.odysseyplus.site
+  - DOMAIN-SUFFIX,kr.odysseyplus.site
+  - DOMAIN-SUFFIX,jp.odysseyplus.site
+  - DOMAIN-SUFFIX,jp2.odysseyplus.site
+  
 #Emby-PiliPili
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
   - DOMAIN-SUFFIX,emby.pilipiliultra.com
