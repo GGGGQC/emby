@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,stream4.misakaf.org
-  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,emby.aca.best,📲 EMBY
 
 #Emby-PiliPili
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
