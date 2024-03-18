@@ -17,7 +17,7 @@ payload:
 #Emby-Porn
   - DOMAIN-SUFFIX,pornemby.club
 
-#Emby-Porn
+#Emby-odysseyplus
   - DOMAIN-SUFFIX,cf.odysseyplus.site
   - DOMAIN-SUFFIX,sg.odysseyplus.site
   - DOMAIN-SUFFIX,us.odysseyplus.site
@@ -33,6 +33,7 @@ payload:
 #Emby-1111
   - DOMAIN-SUFFIX,cf.xmsl.org
   - DOMAIN-SUFFIX,free.xmsl.org
+  - DOMAIN-SUFFIX,ccde.loseremby.org
 
 #Emby-纸片人
   - DOMAIN-SUFFIX,embyplus.org
