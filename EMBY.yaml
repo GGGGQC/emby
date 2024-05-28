@@ -70,6 +70,7 @@ payload:
 #Emby-CC公益服
   - DOMAIN-SUFFIX,cc.ccemby.tk
   - DOMAIN-SUFFIX,cc.coemn.com
+  - DOMAIN-SUFFIX,cc.carryz.net
 
 #Emby-Peach公益服
   - DOMAIN-SUFFIX,embymv.tk
