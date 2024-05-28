@@ -185,6 +185,9 @@ payload:
 #Emby-GuGu(守候机场服)
   - DOMAIN-SUFFIX,emby.cn2gias.uk
 
+#Emby-heisi
+  - DOMAIN-SUFFIX,i109.com
+
 # > ↓↓↓↓↓↓↓↓↓（Emby音乐的分流）↓↓↓↓↓↓↓↓↓
 #Paul-电报服
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
