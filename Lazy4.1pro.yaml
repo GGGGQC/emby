@@ -15,15 +15,15 @@ o3: &o3 {type: select, proxies: [🚀 节点选择, ✈️ 节点备用,♻️ �
 proxy-providers:
   ACA:    ###订阅名称###
     <<: *pp
-    url: "https://api.acaisbest.shop/api/v1/client/subscribe?token=14f02f46b05216bd5f33d197a7aecf7e"
+    url: ""
 
   HXD:    ###订阅名称###
     <<: *pp
-    url: "https://air.222921.xyz/api/v1/client/subscribe?token=2c10ab26f5468f9abe5e6fd24edf9567"
+    url: ""
     
   一元机场:    ###订阅名称###
     <<: *pp
-    url: "https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=rtc0tuyf4nbzmf3v706d43es4dkbyfgh"
+    url: ""
 
 ########################################################################分隔符
 proxy-groups:
