@@ -15,7 +15,7 @@ payload:
   - DOMAIN-SUFFIX,emby.aca.best
 
 #Emby-Porn
-  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,pornemby.com
 
 #Emby-odysseyplus
   - DOMAIN-SUFFIX,cf.odysseyplus.site
