@@ -148,7 +148,7 @@ payload:
   - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN-SUFFIX,reddust.link
   - DOMAIN-SUFFIX,am.sb
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org
+  - DOMAIN-SUFFIX,stream1.misakaf.org,direct
+  - DOMAIN-SUFFIX,stream2.misakaf.org,direct
+  - DOMAIN-SUFFIX,stream3.misakaf.org,direct
+  - DOMAIN-SUFFIX,stream4.misakaf.org,direct
